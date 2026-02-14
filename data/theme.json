@@ -4,68 +4,68 @@
       {
         "label": "primary",
         "color": {
-          "red": 74,
-          "green": 122,
-          "blue": 155,
+          "red": 55,
+          "green": 142,
+          "blue": 62,
           "alpha": 1
         },
-        "hex": "#4a7a9b",
+        "hex": "#378E3E",
         "accessibility": {
-          "luminance": 0.17,
-          "luminancePercent": "17%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 4.6,
+          "luminance": 0.21,
+          "luminancePercent": "21%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 5.1,
           "wcagRating": "AA"
         }
       },
       {
         "label": "secondary",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 41,
+          "green": 106,
+          "blue": 46,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#296a2e",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
+          "luminance": 0.11,
+          "luminancePercent": "11%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
+          "contrastRatio": 6.57,
           "wcagRating": "AA"
         }
       },
       {
         "label": "accent",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 36,
+          "green": 35,
+          "blue": 115,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#242373",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
+          "luminance": 0.03,
+          "luminancePercent": "3%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
+          "contrastRatio": 13.44,
           "wcagRating": "AAA"
         }
       },
       {
         "label": "text",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 36,
+          "green": 35,
+          "blue": 115,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#242373",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
+          "luminance": 0.03,
+          "luminancePercent": "3%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
+          "contrastRatio": 13.44,
           "wcagRating": "AAA"
         }
       },
@@ -123,17 +123,17 @@
       {
         "label": "topbar-dark",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 55,
+          "green": 142,
+          "blue": 62,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#378E3E",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
+          "luminance": 0.21,
+          "luminancePercent": "21%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 5.1,
           "wcagRating": "AA"
         }
       }
@@ -141,76 +141,76 @@
     "typography": [
       {
         "label": "font",
-        "font": "'Verdana', helvetica, arial, sans-serif"
+        "font": "'Segoe UI', helvetica, arial, sans-serif"
       },
       {
         "label": "font-title",
-        "font": "'Montserrat', sans-serif"
+        "font": "'Optima', sans-serif"
       }
     ],
-    "logo_url": "https://www.taortho.com/assets/images/logo.png",
+    "logo_url": "https://caplesrobinsonortho.com/wp-content/themes/RobinsonChris2017/images/logo.png",
     "logo_config": {
       "type": "url",
       "variant": "light",
-      "url": "https://www.taortho.com/assets/images/logo.png"
+      "url": "https://caplesrobinsonortho.com/wp-content/themes/RobinsonChris2017/images/logo.png"
     },
     "logo_colors": {
       "colors": [
         {
-          "hex": "#3f9ff4",
-          "luminosity_percent": 32,
+          "hex": "#212121",
+          "luminosity_percent": 2,
+          "count": 4
+        },
+        {
+          "hex": "#232323",
+          "luminosity_percent": 2,
+          "count": 4
+        },
+        {
+          "hex": "#1f1f1f",
+          "luminosity_percent": 1,
           "count": 3
         },
         {
-          "hex": "#3c9bf0",
-          "luminosity_percent": 31,
+          "hex": "#252525",
+          "luminosity_percent": 2,
           "count": 3
         },
         {
-          "hex": "#3c9bf1",
-          "luminosity_percent": 31,
-          "count": 3
-        },
-        {
-          "hex": "#3e9bf0",
-          "luminosity_percent": 31,
+          "hex": "#1e1e1e",
+          "luminosity_percent": 1,
           "count": 2
         },
         {
-          "hex": "#3d9df3",
-          "luminosity_percent": 32,
+          "hex": "#262626",
+          "luminosity_percent": 2,
           "count": 2
         },
         {
-          "hex": "#090707",
-          "luminosity_percent": 0,
+          "hex": "#191919",
+          "luminosity_percent": 1,
           "count": 2
         },
         {
-          "hex": "#070507",
-          "luminosity_percent": 0,
+          "hex": "#242424",
+          "luminosity_percent": 2,
           "count": 2
         },
         {
-          "hex": "#3da1f8",
-          "luminosity_percent": 33,
+          "hex": "#2f2f73",
+          "luminosity_percent": 4,
           "count": 2
         },
         {
-          "hex": "#3d9ff2",
-          "luminosity_percent": 32,
-          "count": 1
-        },
-        {
-          "hex": "#3e9ef5",
-          "luminosity_percent": 32,
+          "hex": "#ebeb3e",
+          "luminosity_percent": 77,
           "count": 1
         }
       ],
-      "dominant_color": "#3f9ff4",
-      "avg_luminosity": 25.6,
+      "dominant_color": "#212121",
+      "avg_luminosity": 4.9,
       "is_light": false
     },
-    "favicon_url": "https://www.taortho.com/assets/images/icons/favicon.png"
+    "favicon_url": "https://caplesrobinsonortho.com/wp-content/uploads/2017/03/cropped-Robinson-Favicon-32x32.png"
   }
 }
