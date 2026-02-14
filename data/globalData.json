@@ -1,77 +1,190 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Caples & Robinson Orthodontics",
+  "domain": "caplesrobinsonortho.com",
+  "email": "info@caplesrobinsonortho.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "(318) 325-9655",
+    "href": "tel:+13183259655",
+    "aria": "3 1 8, 3 2 5, 9 6 5 5"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "West Monroe",
       "address": {
-        "street": "9650 Main Street",
+        "street": "206 McMillan Rd.",
         "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "city_state": "West Monroe, LA 71291",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "-92.1487005",
+          "latitude": "32.5161035"
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "(318) 325-9006",
+        "href": "tel:+13183259006"
       },
-      "email": "info@mandtortho.com",
+      "email": "info@caplesrobinsonortho.com",
       "hours": [
         {
-          "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Mon - Fri",
+          "time": "Call for hours"
         },
         {
-          "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Sat",
+          "time": "Closed / By appointment"
         },
         {
-          "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
-        },
-        {
-          "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
-        },
-        {
-          "day": "Friday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Sun",
+          "time": "Closed"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
+        "href": "https://www.google.com/maps/search/?api=1&query=206+McMillan+Rd+West+Monroe+LA+71291",
         "label": "Get Directions"
       },
       "special_note": ""
     },
     {
-      "title": "Tonawanda Office",
+      "title": "Ruston",
       "address": {
-        "street": "1077 Delaware Rd",
+        "street": "2210 Forsythe Ave.",
         "suite": "",
-        "city_state": "Tonawanda, NY 14223",
+        "city_state": "Monroe/Ruston area, LA 71201",
         "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
+          "longitude": "",
+          "latitude": ""
         }
       },
       "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
+        "number": "(318) 325-9655",
+        "href": "tel:+13183259655"
       },
-      "email": "info@mandtortho.com",
-      "hours": [],
+      "email": "info@caplesrobinsonortho.com",
+      "hours": [
+        {
+          "day": "Mon - Fri",
+          "time": "Call for hours"
+        },
+        {
+          "day": "Sat",
+          "time": "Closed / By appointment"
+        },
+        {
+          "day": "Sun",
+          "time": "Closed"
+        }
+      ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/search/?api=1&query=2210+Forsythe+Ave+Monroe+LA+71201",
+        "label": "Get Directions"
+      },
+      "special_note": ""
+    },
+    {
+      "title": "Monroe",
+      "address": {
+        "street": "300 W. Alabama Ave.",
+        "suite": "",
+        "city_state": "Monroe/Ruston area, LA 71270",
+        "coordinates": {
+          "longitude": "",
+          "latitude": ""
+        }
+      },
+      "phone": {
+        "number": "(318) 251-9660",
+        "href": "tel:+13182519660"
+      },
+      "email": "info@caplesrobinsonortho.com",
+      "hours": [
+        {
+          "day": "Mon - Fri",
+          "time": "Call for hours"
+        },
+        {
+          "day": "Sat",
+          "time": "Closed / By appointment"
+        },
+        {
+          "day": "Sun",
+          "time": "Closed"
+        }
+      ],
+      "directions_link": {
+        "href": "https://www.google.com/maps/search/?api=1&query=300+W.+Alabama+Ave+Monroe+LA+71270",
+        "label": "Get Directions"
+      },
+      "special_note": ""
+    },
+    {
+      "title": "Mangham",
+      "address": {
+        "street": "4279 Hwy. 15",
+        "suite": "",
+        "city_state": "Mangham, LA 71259",
+        "coordinates": {
+          "longitude": "",
+          "latitude": ""
+        }
+      },
+      "phone": {
+        "number": "(318) 325-9655",
+        "href": "tel:+13183259655"
+      },
+      "email": "info@caplesrobinsonortho.com",
+      "hours": [
+        {
+          "day": "Mon - Fri",
+          "time": "Call for hours"
+        },
+        {
+          "day": "Sat",
+          "time": "Closed / By appointment"
+        },
+        {
+          "day": "Sun",
+          "time": "Closed"
+        }
+      ],
+      "directions_link": {
+        "href": "https://www.google.com/maps/search/?api=1&query=4279+Hwy+15+Mangham+LA+71259",
+        "label": "Get Directions"
+      },
+      "special_note": ""
+    },
+    {
+      "title": "Bastrop",
+      "address": {
+        "street": "2004 E. Madison Ave.",
+        "suite": "",
+        "city_state": "Bastrop, LA 71220",
+        "coordinates": {
+          "longitude": "-91.8883620",
+          "latitude": "32.7779418"
+        }
+      },
+      "phone": {
+        "number": "(318) 283-1832",
+        "href": "tel:+13182831832"
+      },
+      "email": "info@caplesrobinsonortho.com",
+      "hours": [
+        {
+          "day": "Mon - Fri",
+          "time": "Call for hours"
+        },
+        {
+          "day": "Sat",
+          "time": "Closed / By appointment"
+        },
+        {
+          "day": "Sun",
+          "time": "Closed"
+        }
+      ],
+      "directions_link": {
+        "href": "https://www.google.com/maps/search/?api=1&query=2004+E.+Madison+Ave+Bastrop+LA+71220",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -94,28 +207,28 @@
     "content_alignment": "right",
     "links": [
       {
-        "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
+        "icon": "tooth-two-v2",
+        "text": "2210 Forsythe Ave., Monroe, LA 71201",
+        "href": "https://www.google.com/maps/search/?api=1&query=2210+Forsythe+Ave+Monroe+LA+71201",
+        "label": "View 2210 Forsythe Ave., Monroe, LA 71201 on google maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
+        "text": "(318) 325-9655",
+        "href": "tel:+13183259655",
+        "label": "Call 3 1 8. 3 2 5. 9 6 5 5.",
         "new_window": false
       }
     ],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "",
-      "text": "",
-      "mobile_text": "",
+      "label": "Schedule your complimentary consultation",
+      "text": "New patients receive a complimentary orthodontic consultation. Call or request an appointment online.",
+      "mobile_text": "Complimentary consultation",
       "modal": {
-        "title": "",
-        "text": ""
+        "title": "Complimentary Consultation",
+        "text": "We welcome new patients of all ages and offer a complimentary orthodontic consultation. Call (318) 325-9655 or use the online form to schedule your visit."
       }
     }
   },
@@ -129,10 +242,10 @@
           "label": "Schedule Consultation",
           "aria_label": "Schedule a consultation",
           "href": "",
-          "path": "/contact",
+          "path": "/contact-us",
           "hash": "#form",
           "external": false,
-          "include_icon": true,
+          "include_icon": false,
           "icon": "tooth-two-v2",
           "color": "primary"
         }
@@ -150,20 +263,28 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
-        "icon": "youtube"
+        "href": "https://www.facebook.com/CaplesandRobinsonOrthodontics/",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://twitter.com/caplesrobinson",
+        "icon": "twitter"
+      },
+      {
+        "href": "https://www.yelp.com/biz/robinson-chris-dds-west-monroe",
+        "icon": "yelp"
       }
     ],
     "add_border": false
   },
   "enable_popup": false,
   "popup": {
-    "title": "",
+    "title": "Welcome to Caples & Robinson Orthodontics",
     "text": "",
     "image": {
-      "src": "",
+      "src": "https://caplesrobinsonortho.com/wp-content/themes/RobinsonChris2017/images/logo.png",
       "webp": "",
-      "alt": "",
+      "alt": "Caples & Robinson Orthodontics logo",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
@@ -171,7 +292,9 @@
       "objectPosition": "",
       "forceAlt": "",
       "loading_mask": "",
-      "image_selection_hints": null
+      "image_selection_hints": {
+        "context_category": "New Patients Hero"
+      }
     }
   }
 }
